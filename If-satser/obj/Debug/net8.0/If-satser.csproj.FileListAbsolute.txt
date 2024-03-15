@@ -1,0 +1,14 @@
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\If-satser.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\If-satser.AssemblyInfoInputs.cache
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\If-satser.AssemblyInfo.cs
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\If-satser.csproj.CoreCompileInputs.cache
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\bin\Debug\net8.0\If-satser.exe
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\bin\Debug\net8.0\If-satser.deps.json
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\bin\Debug\net8.0\If-satser.runtimeconfig.json
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\bin\Debug\net8.0\If-satser.dll
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\bin\Debug\net8.0\If-satser.pdb
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\If-satser.dll
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\refint\If-satser.dll
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\If-satser.pdb
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\If-satser.genruntimeconfig.cache
+c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\ref\If-satser.dll
