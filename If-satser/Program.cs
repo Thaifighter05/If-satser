@@ -15,60 +15,77 @@ while(x==1)
 
   if (name != "noname")
   {
-  Console.WriteLine("Wrong username");
-  Console.ReadLine();
+    Console.WriteLine("Wrong username");
+    Console.ReadLine();
   }
 
   else if (name == "noname")
   {
     Console.WriteLine("correct");
     Console.ReadLine();
+      x+=1;
   }
       
 
     
-  while(x==2)
+    while(x==2)
   {
 
 
-  Console.WriteLine("what is your password");
-string password = Console.ReadLine();
-password = password.ToLower();
+    Console.WriteLine("what is your password");
+    string password = Console.ReadLine();
+    password = password.ToLower();
 
-if (password != "nopass")
-  {
+    if (password != "nopass")
+    {
 
     Console.WriteLine("Wrong password");
-    Console.WriteLine("what is your password");
-    password = password.ToLower();
+    
     Console.ReadLine();
-  }
+    }
    else if(password == "nopass")
     {
       Console.WriteLine("correct");
     }
 
-if( name == "noname" & password == "nopass") 
-{ 
-Console.WriteLine("Welcome");
-Console.ReadLine();
+    if( name == "noname" & password == "nopass") 
+    { 
+      Console.WriteLine("Welcome");
+      Console.ReadLine();
 
 
-  for (int i= 0; i <= 32; i++)
-  {
-   Console.WriteLine("Hello world");
+      for (int i= 0; i <= 32; i++)
+      {
+        Console.WriteLine("Hello world");
+        //  if(i> 32)
+        //  {
+        //   x+=1;
+        //  }
+
+      }
+    }
   }
-}
+    
+    // while(x==3);
+    // {
+  
+    //   Console.WriteLine("Skriv in en siffra");
+    //   string siffra = Console.ReadLine();
+    //   siffra = siffra.ToLower();
+    //   int sif;
+    //   if ((int.TryParse(siffra, out sif) ) )
+    //   {
+    //     Console.WriteLine("högre än 5!");
+    //   }
+    //   else 
+    //   {
+    //   Console.WriteLine("testa en annan siffra");
+    //   }
+    // }
+} 
 
-  }
-    } 
 
 
 
 
 
-
-// while (i > 0)
-// {
-//     Console.WriteLine("Hello world");
-// }

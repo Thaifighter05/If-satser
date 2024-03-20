@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("If-satser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31fac60924a284bd745e3dd3f4ddd0746d3d6f2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24c672e88eba51d582e0b4d08a18ce1528d9904e")]
 [assembly: System.Reflection.AssemblyProductAttribute("If-satser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("If-satser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
