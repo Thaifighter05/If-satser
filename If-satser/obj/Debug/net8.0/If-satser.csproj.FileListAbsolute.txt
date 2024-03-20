@@ -12,3 +12,4 @@ c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-sa
 c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\If-satser.pdb
 c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\If-satser.genruntimeconfig.cache
 c:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\ref\If-satser.dll
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\If-satser\If-satser\obj\Debug\net8.0\If-satser.sourcelink.json
