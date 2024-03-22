@@ -64,24 +64,32 @@ while(x==1)
 
       }
     }
+    x+=1;
+    if (x==3)
+    {
+      break;
+    }
   }
     
-    // while(x==3);
-    // {
+    for(int a = 0; a <= 5; a++)
+    {
   
-    //   Console.WriteLine("Skriv in en siffra");
-    //   string siffra = Console.ReadLine();
-    //   siffra = siffra.ToLower();
-    //   int sif;
-    //   if ((int.TryParse(siffra, out sif) ) )
-    //   {
-    //     Console.WriteLine("högre än 5!");
-    //   }
-    //   else 
-    //   {
-    //   Console.WriteLine("testa en annan siffra");
-    //   }
-    // }
+      Console.WriteLine("Skriv in en siffra");
+      string siffra = Console.ReadLine();
+      siffra = siffra.ToLower();
+      int sif;
+      if ((int.TryParse(siffra, out sif) ) )
+      {
+        if (sif > 5)
+        {
+        Console.WriteLine("högre än 5!");
+        }
+      }
+      else 
+      {
+      Console.WriteLine("testa en annan siffra");
+      }
+    }
 } 
 
 
